@@ -32,16 +32,6 @@ Database - Firebase
 This app contains all apps like tiktok, bigo, likee, spotify, gaana etc.
 It is an all in one App.
 
-
-### ⦿ My Designs 
-<img align="right" height=360em src="https://ibb.co/kcmf81D"></img>
-<img align="right" height=360em src="https://ibb.co/j5qGkYJ"></img>
-<img align="right" height=360em src="https://ibb.co/8dW0P11"></img>
-
-
-
-
-
 <!--
 **shreya593/shreya593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

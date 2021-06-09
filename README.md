@@ -1,5 +1,6 @@
 ### Hi there, Welcome to my github profile 👋
 ![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=shreya593&hide=contribs,prs"></img>
 
 ## :heart: My Project Treasures
 ### ⦿ Providers 
